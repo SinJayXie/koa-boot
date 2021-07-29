@@ -1,6 +1,6 @@
 {
-  "host": "10.192.190.130",
+  "host": "127.0.0.1",
   "user": "root",
-  "password": "Icom@0760",
-  "database": "cns"
+  "password": "root",
+  "database": "dbname"
 }
