@@ -1,0 +1,15 @@
+{
+  "BASE": {
+    "SERVER_NAME": "koa boot 1.0.0",
+    "REQUEST": "Request",
+    "METHOD": "Method",
+    "NOT_FOUND": "Not Found",
+    "CONTROLLER": "Controller",
+    "NOT_ARROW_REQUEST_METHOD": "Not arrow request method",
+    "TEMPLATE_NOT_FOUND": "Template not found",
+    "PARAM_IS_NULL": "Param is null",
+    "SQL_INJECT": "SQL injection",
+    "PLUGIN_INJECT": "Plugin inject failed",
+    "FREQUENT_REQUESTS": "Frequent requests"
+  }
+}
